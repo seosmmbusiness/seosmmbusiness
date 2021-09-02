@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything =)
 - 📫 How to reach me .... Don't know =) 
 
-check [smm.work](https://smm.work/en/)
+Check one of my projects - [smm.work](https://smm.work/en/) for some SEO and SMM stuff
 <!---
 seosmmbusiness/seosmmbusiness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
