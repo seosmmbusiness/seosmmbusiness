@@ -1,4 +1,4 @@
-- 👋 Hi, I’m John Doe (Joke) 
+- 👋 Hi, I’m Kirill Ivanov
 - 👀 I’m interested in making online business. Made some online projects, maintain few servers... Wrote some bots for solving various tasks.
 - 🌱 I’m currently learning PHP, NuxtJS, VueJS, Angular and etc
 - 💞️ I’m looking to collaborate on anything =)
